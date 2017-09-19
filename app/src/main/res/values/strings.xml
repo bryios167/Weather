@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project Umbrella</string>
+
+    <string name="txt_set_title">ZIPCODE</string>
+    <string name="txt_set_temperature">TEMPERATURE</string>
+
+    <string name="radio_fahrenheit">Fahrenheit</string>
+    <string name="radio_celcius">Celcius</string>
+
+    <string name="btn_submit">SUBMIT</string>
+</resources>
